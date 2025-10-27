@@ -4,6 +4,7 @@
 body{
 	text-align: center;
 	font-family: "Great Vibes", cursive; 
+	background: #FFFFE0;
 }
 .container {
 	width: 1024px;
@@ -18,5 +19,6 @@ body{
 .owl-carousel .item img{
 height: 250px;
 width: auto; 
+
 
 }
